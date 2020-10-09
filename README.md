@@ -2,6 +2,8 @@
 
 ## Esse é um h2
 
+Exemplo de proposta de modificação
+
 ### Esse é um h3
 
 Esse é o meu README. Serve para documentação.
